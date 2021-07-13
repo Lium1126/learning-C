@@ -1,0 +1,26 @@
+//
+//  0613_01_if1.c
+//  prg2019
+//
+//  Created by k19061kk on 2019/06/07.
+//
+
+#include <stdio.h>
+
+int main(int argc, const char *argv[])
+{
+    int n;
+    
+    printf("n? ");
+    scanf("%d", &n);
+    
+    if(n == 1){
+        printf("AAA\n");
+    }else if(n == 2){
+        printf("BBB\n");
+    }else{
+        printf("Defaultです.\n");
+    }
+    
+    return(0);
+}
