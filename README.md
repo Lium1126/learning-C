@@ -43,6 +43,8 @@
 | practice.c | 練習用プログラム(開発途中に作られた副産物) |
 | k19061_0722_MineSweeperWithCurses2.c | 最終課題のプログラム |
 
+詳しくは別リポジトリへ移行してあります -> [https://github.com/Lium1126/minesweeper-in-term](https://github.com/Lium1126/minesweeper-in-term)
+
 ## 実行方法
 1. 次のコマンドで、実行したい .c ファイルが含まれているディレクトリに移動してください。
 ```
